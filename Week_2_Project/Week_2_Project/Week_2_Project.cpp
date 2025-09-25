@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "I just added this in Visual Studio\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
