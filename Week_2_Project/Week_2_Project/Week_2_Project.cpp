@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "I just added this in Visual Studio\n";
+    std::cout << "I just addded this in the command line repo\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
